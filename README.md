@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🍁  ❤ Whatsapp Bot By Ravindu Manoj ❤  🍁</h1>
+<h1>🍁  ❤ SAD PODDA BOTZ ❤  🍁</h1>
 </div>
 
 
@@ -31,15 +31,15 @@ $ npm i
 $ node qr.js
 ```
 
-## 🇱🇰 RAVINDU MANOJ 🇱🇰  
-### SEW BOT FOR YOUR HELP😇
+## SAD PODDA  
+### PODDA BOT FOR YOUR HELP😇
 
 <div align="center">
 <img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
   </div>
 
-- [RavinduManoj](https://github.com/RavinduManoj)
-- [@RavinduManoj](https://t.me/RavinduManoj)
+- [SAD PODDA](https://github.com/SAD PODDA YT)
+- [@SAD PODDA](https://t.me/SAD PODDA)
 
 
 <div align="center">
